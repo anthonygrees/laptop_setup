@@ -36,6 +36,11 @@ Download the `laptop_setup.sh` to your Mac.  The run the following command:
 ./laptop_setup.sh
 ```
   
+If you get a permission error, you may need to run:  
+```bash
+chmod u+x ./laptop_setup.sh
+```
+  
 You will need to type in your `Admin` password, then you will see the following:
 ```bash
 x
