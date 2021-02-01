@@ -8,8 +8,8 @@ brew install jq
 brew install python
 brew install packer
 brew install packer-completion
-brew install terraform
 ##brew install warrensbox/tap/tfswitch  # Allows you to run multiple versions of Terraform
+brew install terraform
 brew install tree
 
 # Uncomment if you want Chef installed
