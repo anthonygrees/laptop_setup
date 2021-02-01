@@ -1,5 +1,5 @@
-# laptop_setup
-A script to automatically set up your new Mac Laptop.  If you are like me and you have just started a new job, this will save you some time.
+# New Mac Laptop Setup using Homebrew
+A script to automatically set up your new Mac Laptop using Homebrew.  If you are like me and you have just started a new job, this will save you a lot of time.
   
 ### What does it install ?
 The script installs the following:
