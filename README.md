@@ -28,6 +28,8 @@ The script installs the following:
 - spotify
 - whatsapp
   
+Note: If you wish to skip an application install, just delete the line or comment it out with `#`.
+  
 ### How to run it.
 Download the `laptop_setup.sh` to your Mac.  The run the following command:  
 ```bash
