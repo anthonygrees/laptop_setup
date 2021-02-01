@@ -181,4 +181,47 @@ Add the following line to your ~/.bash_profile:
 ==> Pouring gdbm-1.18.1_1.catalina.bottle.tar.gz
 🍺  /usr/local/Cellar/gdbm/1.18.1_1: 25 files, 641KB
 ==> Installing python@3.9 dependency: openssl@1.1
+==> Installing Cask virtualbox
+==> Running installer for virtualbox; your password may be necessary.
+Package installers may write to any location; options such as `--appdir` are ignored.
+installer: Package name is Oracle VM VirtualBox
+installer: choices changes file '/var/folders/fv/lx4511t56mz83rf28n0t6n400000gn/T/choices20210201-19007-1k9flvd.xml' applied
+installer: Installing at base path /
+installer: The install was successful.
+==> Changing ownership of paths required by virtualbox; your password may be necessary.
+🍺  virtualbox was successfully installed!
+==> Caveats
+Installing virtualbox-extension-pack means you have AGREED to the license at:
+  https://www.virtualbox.org/wiki/VirtualBox_PUEL
+
+==> Downloading https://download.virtualbox.org/virtualbox/6.1.18/Oracle_VM_VirtualBox_Extension_Pack-6.1.18.vbox-extpack
+######################################################################## 100.0%
+All formula dependencies satisfied.
+==> Installing Cask virtualbox-extension-pack
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+🍺  virtualbox-extension-pack was successfully installed!
+==> Downloading https://download-installer.cdn.mozilla.net/pub/firefox/releases/85.0/mac/en-US/Firefox%2085.0.dmg
+######################################################################## 100.0%
+==> Installing Cask firefox
+==> Moving App 'Firefox.app' to '/Applications/Firefox.app'
+🍺  firefox was successfully installed!
+Updating Homebrew...
+==> Homebrew is run entirely by unpaid volunteers. Please consider donating:
+  https://github.com/Homebrew/brew#donations
+==> Auto-updated Homebrew!
+Updated 1 tap (homebrew/cask).
+==> Updated Casks
+Updated 1 cask.
+
+==> Downloading https://download.scdn.co/Spotify.dmg
+######################################################################## 100.0%
+Warning: No checksum defined for cask 'spotify', skipping verification.
+==> Installing Cask spotify
+==> Moving App 'Spotify.app' to '/Applications/Spotify.app'
+🍺  spotify was successfully installed!
+==> Downloading https://web.whatsapp.com/desktop/mac/files/release-2.2102.8.zip
+==> Downloading from https://scontent.fmel7-1.fna.fbcdn.net/v/t39.16592-6/10000000_203648501487668_5708721356275230150_n.zip/files-release-2
+######################################################################## 100.0%
+==> Installing Cask whatsapp
+==> Moving App 'WhatsApp.app' to '/Applications/WhatsApp.app'
 ```
